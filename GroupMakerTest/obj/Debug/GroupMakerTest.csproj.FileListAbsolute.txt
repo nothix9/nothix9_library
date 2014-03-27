@@ -1,0 +1,11 @@
+E:\Projects\Nothix9\Nothix9\GroupMakerTest\bin\Debug\GroupMakerTest.dll
+E:\Projects\Nothix9\Nothix9\GroupMakerTest\bin\Debug\GroupMakerTest.pdb
+E:\Projects\Nothix9\Nothix9\GroupMakerTest\bin\Debug\nunit.framework.dll
+E:\Projects\Nothix9\Nothix9\GroupMakerTest\bin\Debug\nunit.framework.xml
+E:\Projects\Nothix9\Nothix9\GroupMakerTest\obj\Debug\GroupMakerTest.csprojResolveAssemblyReference.cache
+E:\Projects\Nothix9\Nothix9\GroupMakerTest\obj\Debug\GroupMakerTest.dll
+E:\Projects\Nothix9\Nothix9\GroupMakerTest\obj\Debug\GroupMakerTest.pdb
+E:\Projects\Nothix9\Nothix9\GroupMakerTest\bin\Debug\Rhino.Mocks.dll
+E:\Projects\Nothix9\Nothix9\GroupMakerTest\bin\Debug\Rhino.Mocks.xml
+E:\Projects\Nothix9\Nothix9\GroupMakerTest\bin\Debug\GroupMaker.exe
+E:\Projects\Nothix9\Nothix9\GroupMakerTest\bin\Debug\GroupMaker.pdb

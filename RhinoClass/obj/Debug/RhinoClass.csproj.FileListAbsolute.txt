@@ -1,0 +1,10 @@
+E:\Projects\Nothix9\Nothix9\RhinoClass\bin\Debug\RhinoClass.dll
+E:\Projects\Nothix9\Nothix9\RhinoClass\bin\Debug\RhinoClass.pdb
+E:\Projects\Nothix9\Nothix9\RhinoClass\obj\Debug\RhinoClass.csprojResolveAssemblyReference.cache
+E:\Projects\Nothix9\Nothix9\RhinoClass\obj\Debug\RhinoClass.dll
+E:\Projects\Nothix9\Nothix9\RhinoClass\obj\Debug\RhinoClass.pdb
+E:\Software\Nothix9\Nothix9\RhinoClass\bin\Debug\RhinoClass.dll
+E:\Software\Nothix9\Nothix9\RhinoClass\bin\Debug\RhinoClass.pdb
+E:\Software\Nothix9\Nothix9\RhinoClass\obj\Debug\RhinoClass.csprojResolveAssemblyReference.cache
+E:\Software\Nothix9\Nothix9\RhinoClass\obj\Debug\RhinoClass.dll
+E:\Software\Nothix9\Nothix9\RhinoClass\obj\Debug\RhinoClass.pdb

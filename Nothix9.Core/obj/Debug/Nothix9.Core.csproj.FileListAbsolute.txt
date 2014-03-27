@@ -1,0 +1,15 @@
+E:\Software\Nothix9\Nothix9\Nothix9.Core\bin\Debug\Nothix9.Core.dll
+E:\Software\Nothix9\Nothix9\Nothix9.Core\bin\Debug\Nothix9.Core.pdb
+E:\Software\Nothix9\Nothix9\Nothix9.Core\bin\Debug\System.Reactive.Core.dll
+E:\Software\Nothix9\Nothix9\Nothix9.Core\bin\Debug\System.Reactive.Interfaces.dll
+E:\Software\Nothix9\Nothix9\Nothix9.Core\bin\Debug\System.Reactive.Linq.dll
+E:\Software\Nothix9\Nothix9\Nothix9.Core\bin\Debug\System.Reactive.PlatformServices.dll
+E:\Software\Nothix9\Nothix9\Nothix9.Core\bin\Debug\System.Reactive.Core.xml
+E:\Software\Nothix9\Nothix9\Nothix9.Core\bin\Debug\System.Reactive.Interfaces.xml
+E:\Software\Nothix9\Nothix9\Nothix9.Core\bin\Debug\System.Reactive.Linq.xml
+E:\Software\Nothix9\Nothix9\Nothix9.Core\bin\Debug\System.Reactive.PlatformServices.xml
+E:\Software\Nothix9\Nothix9\Nothix9.Core\obj\Debug\Nothix9.Core.csprojResolveAssemblyReference.cache
+E:\Software\Nothix9\Nothix9\Nothix9.Core\obj\Debug\Nothix9.Core.dll
+E:\Software\Nothix9\Nothix9\Nothix9.Core\obj\Debug\Nothix9.Core.pdb
+E:\Software\Nothix9\Nothix9\Nothix9.Core\bin\Debug\System.Reactive.Windows.Threading.dll
+E:\Software\Nothix9\Nothix9\Nothix9.Core\bin\Debug\System.Reactive.Windows.Threading.xml
